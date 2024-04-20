@@ -1,0 +1,57 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Work Sans", sans-serif;
+  background-color: hsl(275, 100%, 97%);
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  background-image: url(/faq-accordion-main/assets/images/background-pattern-desktop.svg);
+  background-position: center;
+  height: 50vh;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 357px;
+  padding: 10px;
+  width: 450px;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 1rem;
+}
+
+h1 {
+  display: flex;
+  align-items: center;
+}
+
+svg {
+  margin: 5px;
+}
+
+.h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  margin: 5px;
+  color: gray;
+}
+
+ul {
+  padding: 0;
+}
+li {
+  display: flex;
+  align-items: center;
+  margin: 4px;
+  justify-content: space-between;
+  color: hsl(292, 42%, 14%);
+}
