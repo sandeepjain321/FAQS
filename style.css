@@ -10,7 +10,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: row;
-  background-image: url(/faq-accordion-main/assets/images/background-pattern-desktop.svg);
+  background-image: url(./assets/images/background-pattern-desktop.svg);
   background-position: center;
   height: 50vh;
 }
