@@ -55,3 +55,22 @@ li {
   justify-content: space-between;
   color: hsl(292, 42%, 14%);
 }
+
+.hidden {
+  display: none;
+}
+
+.plus-minus {
+  margin-left: 5%;
+  align-items: end;
+}
+
+.q {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.answer {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
